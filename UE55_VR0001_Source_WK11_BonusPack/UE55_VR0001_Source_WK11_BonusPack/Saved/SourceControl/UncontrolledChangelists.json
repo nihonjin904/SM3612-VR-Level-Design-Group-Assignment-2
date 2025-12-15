@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/BP_Entity.uasset",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/AIC_Entity.uasset",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/BackRoom/Scenes/Level0.umap",
 				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Blueprints/BP_Key.uasset",
 				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
